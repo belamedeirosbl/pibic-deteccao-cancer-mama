@@ -15,7 +15,7 @@ O projeto apresenta duas abordagens distintas em formato de **Jupyter Notebooks*
 
 O projeto está dividido em duas etapas principais de experimentação:
 
-### 1. Comparativo Geral (`1_comparativo_geral.ipynb`)
+### 1. Comparativo Geral (`GERAL-ComparativoModelos.ipynb`)
 
 Uma abordagem inicial para estabelecer uma linha de base (_baseline_).
 
@@ -24,7 +24,7 @@ Uma abordagem inicial para estabelecer uma linha de base (_baseline_).
 - **Classificadores:** Uso de vetores de características em SVM, KNN e Random Forest.
 - **Objetivo:** Entender qual arquitetura se comporta melhor com o dataset padrão.
 
-### 2. Abordagem Otimizada - DA+B (`2_abordagem_otimizada_dab.ipynb`)
+### 2. Abordagem Otimizada - DA+B (`GERAL-DA+B_ComparativoModelos.ipynb`)
 
 Uma abordagem refinada focada em maximizar a performance e corrigir problemas comuns em datasets médicos.
 
