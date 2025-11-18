@@ -6,6 +6,11 @@ Este repositório contém um estudo comparativo e prático sobre a aplicação d
 
 O projeto apresenta duas abordagens distintas em formato de **Jupyter Notebooks**, servindo como um tutorial para aplicação de técnicas de Deep Learning e Machine Learning clássico em imagens médicas.
 
+- 📜 [Ler Relatório Técnico Completo (PDF)](docs/Relatório-Final-PIBIC-2025.pdf)
+- 📊 [Ver Slides da Apresentação Final (PDF)](docs/JornadaCientificaPIBIC.pdf)
+
+## Documentação
+
 ## Conteúdo dos Notebooks
 
 O projeto está dividido em duas etapas principais de experimentação:
